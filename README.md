@@ -1,6 +1,6 @@
-# Zbots 使用说明
+# Hcatbot 使用说明📕
 
-使用Vue Press
+Vue Press
 
 需要nodejs环境
 
@@ -10,4 +10,4 @@ cmd/bash运行npm install
 
 运行npm run build打包
 
-成品在dist目录下，需要放到服务器上查看，直接点开看不到
+编译成品在dist目录下，需要放至服务器上查看，直接打开无法正常查看

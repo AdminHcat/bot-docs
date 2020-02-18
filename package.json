@@ -1,7 +1,7 @@
 {
-  "name": "zbot-docs",
+  "name": "bot-docs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Vue Press",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,6 +9,19 @@
     "build": "vuepress build docs --temp .temp"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Hcat",
+  "license": "ISC",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdminHcat/bot-docs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AdminHcat/bot-docs/issues"
+  },
+  "homepage": "https://github.com/AdminHcat/bot-docs#readme"
 }
